@@ -1,15 +1,16 @@
 # StackGAN
 ### Text to Photo-Realistic Image Generation using GANs
 
-Tensorflow implementation for reproducing main results in the paper [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/pdf/1612.03242v1.pdf) by Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang,   Xiaolei Huang, Dimitris Metaxas.
+Tensorflow implementation for reproducing main results in the original paper [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/pdf/1612.03242v1.pdf) by Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas.
 
+### Framework
 <img src="examples/framework.png" width="850px" height="370px"/>
-
+<img src="examples/framework.jpg" width="850px" height="370px"/>
 
 ### Dependencies
 python 3.8
 
-[TensorFlow 0.12](https://www.tensorflow.org/get_started/os_setup)
+[TensorFlow](https://www.tensorflow.org/api_docs/python/tf)
 
 [Optional] [Torch](http://torch.ch/docs/getting-started.html#_) is needed, if use the pre-trained char-CNN-RNN text encoder.
 
@@ -73,7 +74,7 @@ More examples:
 ![](examples/result.png)
 ![](examples/result1.jpeg)
 
-More examples in subfolders
+More examples in the subfolders
 
 ---
 
