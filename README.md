@@ -80,7 +80,10 @@ More examples in the subfolders
 
 All Project implementations are avaialble in the [[Documents folder](https://github.com/vimalsubbiah7/Text2Image-Generation-using-GANs/tree/master/Documents)]
 
+---
+
 **Presentation Demo Jupyter Notebooks**
+
 A lot of notebooks are trained on the current Text2image model just for the presenation on various prompts can be viewed [here](https://drive.google.com/drive/folders/1wLhVqQhteX3GTtFO-poEnX-eilicJnLp?usp=sharing)
 
 
