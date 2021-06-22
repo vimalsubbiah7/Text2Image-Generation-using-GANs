@@ -77,7 +77,7 @@ More examples in subfolders
 
 ---
 
-All Project implementations are avaialble in the [[Documents folder](https://arxiv.org/pdf/1606.03498.pdf)]
+All Project implementations are avaialble in the [[Documents folder](https://github.com/vimalsubbiah7/Text2Image-Generation-using-GANs/tree/master/Documents)]
 
 
 
