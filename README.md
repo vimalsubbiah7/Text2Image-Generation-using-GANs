@@ -78,7 +78,7 @@ More examples in the subfolders
 
 ---
 
-All Project implementations are avaialble in the [[Documents folder](https://github.com/vimalsubbiah7/Text2Image-Generation-using-GANs/tree/master/Documents)]
+All Project presentation documents are avaialble in the [[Documents folder](https://github.com/vimalsubbiah7/Text2Image-Generation-using-GANs/tree/master/Documents)]
 
 ---
 
